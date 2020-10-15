@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,cAAc,CAAC;EACf,MAAM,EAAE,KAAK;CACZ;;AAED,AAAA,KAAK,CAAC;EACF,MAAM,EAAE,KAAK;EACb,aAAa,EAAE,IAAI;CAMtB;;AARD,AAII,KAJC,CAID,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "syle.scss"
+    ],
+    "names": [],
+    "file": "syle.css"
+}

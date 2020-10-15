@@ -1,0 +1,19 @@
+body {
+  background: #FFECEC;
+}
+
+.carousel-item {
+  height: 740px;
+}
+
+.card {
+  height: 360px;
+  margin-bottom: 30px;
+}
+
+.card img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+/*# sourceMappingURL=syle.css.map */
